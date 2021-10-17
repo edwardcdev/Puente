@@ -16,6 +16,7 @@ For a live demo, please check out [here](https://puente-dashboard.herokuapp.com/
 ![screencap](public/tour_high.gif)
 
 ## Specification
+
 1. [ReactJS](https://reactjs.org)
 1. [Redux](https://redux.js.org/)
 1. [Apollo's GraphQL](https://www.apollographql.com/docs/)
@@ -25,8 +26,8 @@ For a live demo, please check out [here](https://puente-dashboard.herokuapp.com/
 
 ## Running
 
-`npm install`
-`npm start`
-`npm test`
-`npm build`
-`npm lint`
+1. `npm install`
+1. `npm start`
+1. `npm test`
+1. `npm build`
+1. `npm lint`
